@@ -1,0 +1,39 @@
+{
+  "packageId": "com.bryankok.radically.twa",
+  "host": "radically.bryankok.com",
+  "name": "Radically CJK Search Engine",
+  "launcherName": "Radically",
+  "display": "standalone",
+  "themeColor": "#FFFFFF",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#016154",
+  "enableNotifications": true,
+  "startUrl": "/search?utm_source=android_twa",
+  "iconUrl": "https://radically.bryankok.com/logo512.png",
+  "maskableIconUrl": "https://radically.bryankok.com/logo512.png",
+  "monochromeIconUrl": "https://radically.bryankok.com/logo192.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://radically.bryankok.com/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "appVersion": "2"
+}
